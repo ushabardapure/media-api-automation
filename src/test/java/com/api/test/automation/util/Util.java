@@ -26,7 +26,7 @@ public class Util {
      *
      * @param response
      * @param filterExpression
-     * @return If found then collection of all the items otherwise empty collection
+     * @return If found then collection of items matching criteria otherwise empty collection
      */
     public static List<Map<Object, Object>> findAll(Response response, String filterExpression) {
         return response.getBody().jsonPath().get(filterExpression);
