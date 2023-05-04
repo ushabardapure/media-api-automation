@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "type": "music_track",
+      "id": "p002d79p",
+      "segment_type": "music",
+      "title_list": {
+        "primary": "John Mellencamp",
+        "secondary": "Jack And Diane",
+        "tertiary": null
+      },
+      "synopses": null,
+      "image_url": null,
+      "offset": {
+        "start": 100,
+        "end": 4500,
+        "label": null,
+        "now_playing": false
+      },
+      "uris": [
+        {
+          "type": "commercial-music-service",
+          "id": "commercial-music-service-spotify",
+          "label": "Spotify",
+          "uri": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+        },
+        {
+          "type": "commercial-music-service",
+          "id": "commercial-music-service-apple",
+          "label": "Apple Music",
+          "uri": "https://music.apple.com/gb/album/jack-diane/1440786233?i=1440786241"
+        }
+      ]
+    },
+    {
+      "type": "music_track",
+      "id": "p002d79p",
+      "segment_type": "video",
+      "title_list": {
+        "primary": "John Mellencamp",
+        "secondary": "Jack And Diane",
+        "tertiary": null
+      },
+      "synopses": null,
+      "image_url": null,
+      "offset": {
+        "start": 100,
+        "end": 4500,
+        "label": null,
+        "now_playing": false
+      },
+      "uris": [
+        {
+          "type": "commercial-music-service",
+          "id": "commercial-music-service-spotify",
+          "label": "Spotify",
+          "uri": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+        },
+        {
+          "type": "commercial-music-service",
+          "id": "commercial-music-service-apple",
+          "label": "Apple Music",
+          "uri": "https://music.apple.com/gb/album/jack-diane/1440786233?i=1440786241"
+        }
+      ]
+    }
+  ]
+}
